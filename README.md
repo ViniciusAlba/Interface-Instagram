@@ -16,9 +16,9 @@ This project is a DIO (Digital Innovation One) project. DIO it is a platform wit
 
 ## Demo
 
-![Mobile Desktop](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20210829220056229.png)
+![Mobile](C:\Users\PC\Desktop\mobile-image.png)
 
-![Desktop Image](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20210829220025507.png)  
+![Desktop](C:\Users\PC\Desktop\desktop-image.png)
 
 
 
