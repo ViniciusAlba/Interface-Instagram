@@ -16,9 +16,9 @@ This project is a DIO (Digital Innovation One) project. DIO it is a platform wit
 
 ## Demo
 
-![Mobile](C:\Users\PC\Desktop\mobile-image.png)
+![mobile-image](C:\Users\PC\Desktop\mobile-image.png)
 
-![Desktop](C:\Users\PC\Desktop\desktop-image.png)
+![desktop-image](C:\Users\PC\Desktop\desktop-image.png)
 
 
 
