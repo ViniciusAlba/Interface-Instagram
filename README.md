@@ -18,7 +18,8 @@ This project is a DIO (Digital Innovation One) project. DIO it is a platform wit
 
 
 
-![mobile-image](C:\Users\PC\Desktop\Projects\interface-instagram\img\mobile-image.png)
+<img src="/img/desktop-image.png">
+<img src="/img/mobile-image.png">
 
 ![desktop-image](C:\Users\PC\Desktop\Projects\interface-instagram\img\desktop-image.png)
 
